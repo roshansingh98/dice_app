@@ -19,6 +19,10 @@ You can make the die roll at the press of a button. With this app in your pocket
 * Learn about basic dart programming concepts such as data types and functions.
 * Code and use gesture controls.
 
+## 100 Days Challenge
+* Day 3: Initially drew the frame work of the app on the stateless widget. Saw how to change the various properties of the widgets.Also learnt a bit about various dart programming techniques.
+* Day 4: Used FlatButton and on it learnt how to use onPressed, then moved the framework of app to Stateful Widget. There use setState when te buttons were pressed. And completed the app.
+
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
