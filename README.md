@@ -6,6 +6,8 @@ The objective of this code is to learn a bit about the core programming concepts
 ## What is this
 You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go! You can play all Indian games such as ludo or snakes n ladder too!!!
 
+![Finished App](https://github.com/roshansingh98/dice_app/blob/master/githubFiles/appScreen.gif)
+
 ## What did I Learn
 * How to use Flutter stateless widgets to design the user interface.
 * How to use Flutter stateful widgets to update the user interface.
